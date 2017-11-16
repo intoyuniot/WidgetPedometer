@@ -1,0 +1,17 @@
+{
+    "name": "WidgetPedometer",
+    "version": "1.0.0",
+    "keywords": "Widget,Pedometer",
+    "description": "计步器应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetPedometer.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
